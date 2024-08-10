@@ -1,4 +1,5 @@
 # droboquis-capxur
+Ferramenta de gravação de tela, construída a partir da API Screen Capture.
 
 # Linguagens e Frameworks
 Typescript, NextJS, Appwrite e React.
