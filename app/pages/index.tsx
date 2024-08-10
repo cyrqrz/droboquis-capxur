@@ -1,6 +1,6 @@
 "use client";
 
-import ScreenRecorder from './components/ScreenRecorder/ScreenRecorder';
+import ScreenRecorder from '../components/ScreenRecorder/ScreenRecorder';
 
 
 export default function Home() {
