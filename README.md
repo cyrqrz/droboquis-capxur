@@ -4,14 +4,14 @@ Seja bem vindo!
 # Linguagens e Frameworks
 Typescript, NextJS, Appwrite e React.
 
-# UTILIZAÇÃO
+# Utilização
 1) Clone o repositório do Droboquis Capxur
 2) CD dentro do repositório
 3) rode o comando npm run dev
 4) acesse localhost:3000
 5) utilize o botão de iniciar gravação
 
-# FEATURES
+# Features
 1) Webcam integrada a captura
 2) Preview da webcam
 3) Replay da ultima gravação
