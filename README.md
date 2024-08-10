@@ -1,5 +1,4 @@
 # droboquis-capxur
-Seja bem vindo!
 
 # Linguagens e Frameworks
 Typescript, NextJS, Appwrite e React.
