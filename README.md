@@ -5,11 +5,11 @@ Seja bem vindo!
 Typescript, NextJS, Appwrite e React.
 
 # UTILIZAÇÃO
-> Clone o repositório do Droboquis Capxur
-> CD dentro do repositório
-> rode o comando npm run dev
-> acesse localhost:3000
-> utilize o botão de iniciar gravação
+1) Clone o repositório do Droboquis Capxur
+2) CD dentro do repositório
+3) rode o comando npm run dev
+4) acesse localhost:3000
+5) utilize o botão de iniciar gravação
 
 # FEATURES
 1) Webcam integrada a captura
